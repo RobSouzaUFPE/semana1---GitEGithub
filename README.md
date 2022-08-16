@@ -42,3 +42,4 @@
 <p>In addition to the explanation, it is possible to verify algorithms in the flowchart version, where each element describes, in addition to the steps that must be taken, the way in which each step takes place, that is, inputs, outputs and possible conditions. portugol also shows how instructions can be passed by building the sequence of actions in structured portuguese.
 <p>With this we can see that the algorithms can be written in several ways, in addition, the structures created can be replaced by a programming language, using the logic present in these instructions.# semana1---GitEGithub
 # semana1---GitEGithub
+# semana1 ---GitEGithub
